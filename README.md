@@ -20,5 +20,5 @@ I would like to invite those who join this session to  create a Dos and Don’ts
 * Discussion points document
 * Feedback survey http://tiny.cc/dosfeedback
 
-#### Please feel free to share your tips and advice by adding to the life document x
+#### Please feel free to share your tips and advice by adding to the Dos and Don'ts checklist
 
