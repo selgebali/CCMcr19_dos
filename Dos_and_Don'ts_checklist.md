@@ -1,8 +1,9 @@
 # Dos and Don’ts
 
-This document includes advice on what to consider before, during and after technical training sessions with regards to equality, diversity and inclusion. 
+This document includes;
+## 	A section on what to consider before, during and after technical training sessions with regards to equality, diversity and inclusion. 
 
-It will also include advice on technical tools that can help improve the quality of training sessions. 
+##	Advice on technical tools that can help improve the quality of training sessions. 
 
 Please share your experiences from delivering training and advice on how to improve current training/workshop sessions. 
 
@@ -42,16 +43,56 @@ Please share your experiences from delivering training and advice on how to impr
 
 
 # Tools
-* Having co-trainers
-* Q&A and polling: https://www.sli.do
+## Before 
+*	Bring Wifi router
+*	Wifi access passwords, ask beforehand who accesses Eduroam, prepare temp guest accounts
+*	Contingency plans incase the internet doesn't work 
+*	Ask beforehand the food intolerances in case food is ordered.
+*	Bring extension leads
+*	Have a code of conduct and refer to it before the session
+*	Locate and demonstrate fire escapes
+*	Mention where the bathrooms are.
+*	Arrange with the organisers for a gender neutral and disable access toilets.
+*	Ask the audience beforehand to mention disability requirements in anonymous manner.
+*	Communicate plan for breaks 
+*	Check the room size, tables layout and temperature 
+*	Check for power sockets
+*	Weigh out the pros and cons of software setup local vs cloud
+* 	Material preparation and give access beforehand
+*	Be mindful of the audience conditions such as timezones, holidays, religious fasting, etc...
+*	Ask about protected characteristics (age, gender, sexuality, etc.) before the workshop to enable quotas/diversity? Make sure there is an option to not reveal if they don't want to
 
-* Stickie notes	
-* Quizzing
-* Word clouds: https://www.menti.com
-* ice-breakers	
-* Presenting slides with captions: https://support.google.com/docs/answer/9109474?hl=en
-* Encouraging group work	
-* Chat-channels: Slack slack.com
-* Google Drive
-* Etherpad
-* Socrative: https://socrative.com
+## During
+*	Encourage participants to point out issues
+*	Illustrate that you care and react to issues
+*	Ask about font size for presentations and specially for live coding
+*	Be mindful of colours and contrast accessibility (black on light grey)
+*	Screen visibility, avoid blocking parts of the screen
+*	Use the microphone to connect to hearing loop
+*	Be careful of language and diction
+*	Don't touch learners' keyboards
+*	Bring co-trainers taking into account the number of participants
+*	Have a gatekeeper to regulate discussions 
+*	Have a raisable table for live coding
+*	Be mindful of how you address the participants
+*	Avoid using phrases such as "you guys"
+*	Schedule practicals in afternoon so people who have to leave early (e.g. childcare) can do this without missing too much and can catch up in their own time followed by a catchup the morning after. 
+*	Add Quizzes
+
+
+## After 
+*	Ask for feedback
+*	Q&A and polling: https://www.sli.do
+*	Use Sticky notes
+
+
+## General 
+* 	Having co-trainers
+* 	Word clouds: https://www.menti.com
+* 	Ice-breakers	
+* 	Presenting slides with captions: https://support.google.com/docs/answer/9109474?hl=en
+* 	Encourage group work	
+* 	Chat-channels: Slack slack.com
+* 	Google Drive
+* 	Etherpad
+* 	Socrative: https://socrative.com
