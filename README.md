@@ -12,11 +12,11 @@ In this session, I would like to discuss the different elements that need to be 
 I would like to invite those who join this session to  create a Dos and Don’ts checklist for teaching events aimed at a diverse audience and explore ways of being mindful of factors that might contribute to the success of their sessions. The aim of the session is to raise awareness of diversity, equality and inclusion in training and workshops and to develop tools and practices. 
 
 ### Files included : 
-Readme
-Introductory Presentation
-Participants Survey + Groups input sheets
-Discussion points document
-Feedback survey http://tiny.cc/dosfeedback
+* Readme
+* Introductory Presentation
+* Participants Survey + Groups input sheets
+* Discussion points document
+* Feedback survey http://tiny.cc/dosfeedback
 
 #### Please feel free to share your tips and advice by adding to the life document x
 
