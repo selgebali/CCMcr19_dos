@@ -1,9 +1,9 @@
 # Dos and Don’ts
 
-This document includes;
-## 	A section on what to consider before, during and after technical training sessions with regards to equality, diversity and inclusion. 
+## This document includes;
+1. A section on what to consider before, during and after technical training sessions with regards to equality, diversity and inclusion. 
 
-##	Advice on technical tools that can help improve the quality of training sessions. 
+1. Advice on technical tools that can help improve the quality of training sessions. 
 
 Please share your experiences from delivering training and advice on how to improve current training/workshop sessions. 
 
