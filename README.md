@@ -16,8 +16,7 @@ I would like to invite those who join this session to  create a Dos and Don’ts
 ### Files included : 
 * Readme
 * Introductory Presentation
-* Participants Survey + Groups input sheets
-* Discussion points document
+* Dos and Don'ts checklist
 * Feedback survey http://tiny.cc/dosfeedback
 
 #### Please feel free to share your tips and advice by adding to the Dos and Don'ts checklist
