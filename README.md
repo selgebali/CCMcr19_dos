@@ -17,7 +17,7 @@ I would like to invite those who join this session to  create a Dos and Don’ts
 * Readme
 * Introductory Presentation
 * [Dos and Don'ts checklist](https://github.com/selgebali/CCMcr19_dos/blob/master/Dos_and_Don'ts_checklist.md)
-* Feedback survey http://tiny.cc/dosfeedback
+* [Feedback survey](http://tiny.cc/dosfeedback)
 
 #### Please feel free to share your tips and advice by adding to the Dos and Don'ts checklist
 
