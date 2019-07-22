@@ -15,7 +15,7 @@ I would like to invite those who join this session to  create a Dos and Don’ts
 
 ### Files included : 
 * Readme
-* Introductory Presentation
+* [Introductory Presentation](https://github.com/selgebali/CCMcr19_dos/blob/master/Dos%20and%20Don%E2%80%99ts%20for%20computational%20training.pptx)
 * [Dos and Don'ts checklist](https://github.com/selgebali/CCMcr19_dos/blob/master/Dos_and_Don'ts_checklist.md)
 * [Feedback survey](http://tiny.cc/dosfeedback)
 
